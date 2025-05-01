@@ -32,5 +32,6 @@ public class Pertemuan05 {
             default -> System.out.println("Pilihan tidak terdaftar");
             }
         }while( ul.equals("ulang") );   
+        System.out.println("Bye..");
     }
 }
