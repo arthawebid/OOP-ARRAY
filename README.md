@@ -8,3 +8,4 @@
 ## D. Hapus Data
 ![](images/DeleteData.jpg)
 ## S. Selesai
+![](images/bye.jpg)
